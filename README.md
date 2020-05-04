@@ -7,5 +7,5 @@ various prediction algorithms along with NLP for sentiment analysis and recommen
 of the report talks about Data Gathering, Pre-processing, Methodology, Results and Conclusion
 of our project
 
-Please find dataset here:
+Please find dataset here: (Please use sjsu.edu account to access the drive)
 https://drive.google.com/drive/folders/1tdT4EWROsLGc1pwUvNoZukGwzDTUq2MX?usp=sharing
